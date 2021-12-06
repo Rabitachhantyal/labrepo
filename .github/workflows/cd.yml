@@ -1,4 +1,4 @@
-name: labrepo
+name: Deployment
 
 on:
   push:
